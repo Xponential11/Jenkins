@@ -38,7 +38,7 @@ def test_double():
 ##########Task----3################################
 
 def test_tuple(tuple_data):
-    assert tuple_data[4]['size'] == 1024 #Pass
+    assert tuple_data[4]['size'] == 1023 #Pass
 
 def test_list(list_data):
     assert list_data[1] == 'soft' #Fail
@@ -54,7 +54,7 @@ def test_double_1(test_double):
     assert isinstance(test_double[0],int)
 
 def test_double_2(test_double):
-    assert isinstance(test_double[3],str)
+    assert isinstance(test_double[2],str)
 
 ####################################################
 
