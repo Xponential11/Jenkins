@@ -1,7 +1,6 @@
 import unittest
 import subprocess
 import os
-import HtmlTestRunner
 import pytest
 
 
@@ -55,4 +54,4 @@ class Test_all(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output="/home/sarth/JenkinsTest/Jenkins/reports"))
+    unittest.main()
