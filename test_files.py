@@ -34,7 +34,7 @@ class Test_all(unittest.TestCase):
     def test_OOP(self):
         subprocess.Popen("python3 runBabyNam.py",shell=True)
         sum = 5+6
-        assert sum == 11
+        assert sum == 10
 
     def test_pytestFramework(self):
         subprocess.Popen("pytest -v test_fixture.py",shell=True)
