@@ -1,0 +1,80 @@
+
+
+    2) SDRAM Data Line Test
+
+
+	Total run count --------------> 5
+
+	Total pass count -------------> 5
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> PASS
+
+	Last test error code ---------> n/a
+
+
+    5) SDRAM Bit Fade test
+
+
+	Total run count --------------> 2
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 1
+
+	Consecutive failure count ----> 1
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x5000
+
+
+    1) MAC Loopback Test
+
+
+	Total run count --------------> 1
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x2000000
+
+
+    2) PHY  Loopback Test
+
+
+	Total run count --------------> 1
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> PASS
+
+	Last test error code ---------> 0x2000000
+
+
+    4) UART Register Read-Write test
+
+
+	Total run count --------------> 10
+
+	Total pass count -------------> 9
+
+	Total failure count ----------> 1
+
+	Consecutive failure count ----> 1
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x20000

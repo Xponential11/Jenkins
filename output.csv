@@ -1,0 +1,11 @@
+,testsuite
+@errors,2
+@failures,0
+@name,Test_Class-20210401111358
+@tests,11
+@time,0.159
+system-err,
+system-out,"...............Common Utils Test Completed................
+...............Google Test Completed................
+...............Pytest Test Completed................"
+testcase,"[OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Commom_Utils'), ('@time', '0.002')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Babynames'), ('@time', '0.002')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_1'), ('@time', '0.002')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_2'), ('@time', '0.002')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_3'), ('@time', '0.026')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_4'), ('@time', '0.016')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_5'), ('@time', '0.034')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Google_Exercise_6'), ('@time', '0.019')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Python_Pytest'), ('@time', '0.022')]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_Python_OOP'), ('@time', '0.033'), ('error', OrderedDict([('@message', ''), ('@type', 'AssertionError'), ('#text', 'Traceback (most recent call last):\n  File ""Test_Wrapper.py"", line 66, in test_Python_OOP\n    assert sum == 10\nAssertionError')]))]), OrderedDict([('@classname', 'Test_Class'), ('@name', 'test_to_fail'), ('@time', '0.000'), ('error', OrderedDict([('@message', ""'Test_Class' object does not support indexing""), ('@type', 'TypeError'), ('#text', 'Traceback (most recent call last):\n  File ""Test_Wrapper.py"", line 60, in test_to_fail\n    assert tuple_data[4][\'size\'] == 1023 #Fail\nTypeError: \'Test_Class\' object does not support indexing')]))])]"

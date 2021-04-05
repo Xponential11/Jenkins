@@ -101,11 +101,11 @@ def main(filename):
     #Takin text out of list
     text = '\n'.join(names)
     if summary:
-        fout = open(filename + '.summary','w')
+        fout = open(filename + '.output','w')
         fout.write(text +'\n')
         fout.close()
     else:
         print (text)
   
 if __name__ == '__main__':
-  main("baby1994.html")
+  main("baby1992.html")

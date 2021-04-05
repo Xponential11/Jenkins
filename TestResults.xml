@@ -1,0 +1,31 @@
+<testsuites><testsuite errors="3" name="TestResults" tests="2" /><testcase name="SDRAM Data Line Test&#10;"><system-out>
+
+	Total run count --------------&gt; 5
+
+	Total pass count -------------&gt; 5
+
+</system-out></testcase><testcase name="SDRAM Bit Fade test&#10;"><error>
+
+	Total run count --------------&gt; 2
+
+	Total pass count -------------&gt; 1
+
+</error></testcase><testcase name="MAC Loopback Test&#10;"><error>
+
+	Total run count --------------&gt; 1
+
+	Total pass count -------------&gt; 1
+
+</error></testcase><testcase name="PHY  Loopback Test&#10;"><system-out>
+
+	Total run count --------------&gt; 1
+
+	Total pass count -------------&gt; 1
+
+</system-out></testcase><testcase name="UART Register Read-Write test&#10;"><error>
+
+	Total run count --------------&gt; 10
+
+	Total pass count -------------&gt; 9
+
+</error></testcase></testsuites>

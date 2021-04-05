@@ -102,7 +102,7 @@ if __name__ == "__main__":
     
     command = 'scp ' + url + ' log.txt'
     subprocess.Popen(command,shell=True)
-    time.sleep(5)
+    
 
       
                 

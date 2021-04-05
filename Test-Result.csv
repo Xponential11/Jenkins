@@ -1,0 +1,10 @@
+,testcase,testcase,testcase,testcase,testcase,testcase,testcase,testcase,testcase,testcase,testcase,system-out,system-err
+0,,,,,,,,,,"Traceback (most recent call last):
+  File ""Test_Wrapper.py"", line 66, in test_Python_OOP
+    assert sum == 10
+AssertionError
+		","Traceback (most recent call last):
+  File ""Test_Wrapper.py"", line 60, in test_to_fail
+    assert tuple_data[4]['size'] == 1023 #Fail
+TypeError: 'Test_Class' object does not support indexing
+		",,

@@ -1,0 +1,574 @@
+Diagnostics Test Summary
+
+
+  SDRAM Module
+
+
+    1) SDRAM Device Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    2) SDRAM Data Line Test
+
+
+	Total run count --------------> 5
+
+	Total pass count -------------> 5
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> PASS
+
+	Last test error code ---------> n/a
+
+
+    3) SDRAM Address Line test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    4) SDRAM Memory cell test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    5) SDRAM Bit Fade test
+
+
+	Total run count --------------> 2
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 1
+
+	Consecutive failure count ----> 1
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x5000
+
+
+    6) SDRAM March test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+
+  ETHERNET Module
+
+
+    1) MAC Loopback Test
+
+
+	Total run count --------------> 1
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x2000000
+
+
+    2) PHY  Loopback Test
+
+
+	Total run count --------------> 1
+
+	Total pass count -------------> 1
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> PASS
+
+	Last test error code ---------> 0x2000000
+
+
+
+  UART Module
+
+
+    1) UART Loopback Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    2) UART View Current Configuration test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    3) UART Baud Rate test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    4) UART Register Read-Write test
+
+
+	Total run count --------------> 10
+
+	Total pass count -------------> 9
+
+	Total failure count ----------> 1
+
+	Consecutive failure count ----> 1
+
+	Last test executed status ----> FAIL
+
+	Last test error code ---------> 0x20000
+
+
+    5) UART Transmit test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    6) UART Receive Echo test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    7) UART Transmit FIFO test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    8) UART Receive FIFO Echo test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    9) UART Special Character test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    10) UART DLAB Bit test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    11) UART Normal Read test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    12) UART Normal Write test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    13) UART Overrun Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    14) UART Break Interrupt test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    15) UART softwre reset test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+
+  SPI Module
+
+
+    1) SPI IP Revision Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    2) SPI Speed Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    3) SPI System Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+
+  I2C Module
+
+
+    1) I2C SCAN Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    2) I2C loopback Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    3) I2C serial clock test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    4) I2C software reset test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+
+  USB Module
+
+
+    1) USB Host Controller ID Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    2) USB Device Identification Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+    3) USB write and read Test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
+
+  HDMI Module
+
+
+    1) HDMI hot plug detection test
+
+
+	Total run count --------------> 0
+
+	Total pass count -------------> 0
+
+	Total failure count ----------> 0
+
+	Consecutive failure count ----> 0
+
+	Last test executed status ----> n/a
+
+	Last test error code ---------> n/a
+
+
