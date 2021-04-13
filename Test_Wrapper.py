@@ -85,4 +85,5 @@ if __name__ == '__main__':
     xml_report_dir = './reports/xml_report'  
     #unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=html_report_dir))#,testRunner=xmlrunner.XMLTestRunner(output=xml_report_dir))
     #unittest.main(testRunner=xmlrunner.XMLTestRunner(output=xml_report_dir))
+    unittest.main()
     

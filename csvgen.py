@@ -20,7 +20,7 @@ def parseXML(xmlfile):
         else:
             temp = str("PASS")
         
-        testresultitems[str(tag.get('name'))] = str(tag.get('time')) + "," + temp 
+        testresultitems[str(tag.get('name'))] = str(tag.get('time')) + "," + temp
         temp = ""
     #print(testresults)
     print(testresultitems)

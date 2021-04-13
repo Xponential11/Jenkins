@@ -27,10 +27,10 @@ Here's what the html looks like in the baby.html files:
 ...
 
 Suggested milestones for incremental development:
- -Extract the year and print it
- -Extract the names and rank numbers and just print them
- -Get the names data into a dict and print it
- -Build the [year, 'name rank', ... ] list and print it
+ -Extract the year and #print it
+ -Extract the names and rank numbers and just #print them
+ -Get the names data into a dict and #print it
+ -Build the [year, 'name rank', ... ] list and #print it
  -Fix main() to use the extract_names list
 """
 
@@ -84,7 +84,7 @@ def main(filename):
 #   args = sys.argv[1:]
 
 #   if not args:
-#     print ('usage: [--summaryfile] file [file ...]')
+#     #print ('usage: [--summaryfile] file [file ...]')
 #     sys.exit(1)
 
 #   # Notice the summary flag and remove it from args if it is present.
@@ -94,7 +94,7 @@ def main(filename):
 #     del args[0]
     summary = True
   # +++your code here+++
-  # For each filename, get the names, then either print the text output
+  # For each filename, get the names, then either #print the text output
   # or write it to a summary file
 #   for filename in args:
     names = extract_names(filename)
@@ -105,7 +105,7 @@ def main(filename):
         fout.write(text +'\n')
         fout.close()
     else:
-        print (text)
+        #print (text)
   
 if __name__ == '__main__':
   main("baby1992.html")
